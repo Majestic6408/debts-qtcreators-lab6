@@ -1,0 +1,44 @@
+[
+    {
+        "description": "sj",
+        "maxWeight": 0.1,
+        "name": "sgfj",
+        "slotCount": 1
+    },
+    {
+        "description": "sfgj",
+        "maxWeight": 0.1,
+        "name": "wsfgj",
+        "slotCount": 1
+    },
+    {
+        "description": "",
+        "maxWeight": 0.1,
+        "name": "dfhk",
+        "slotCount": 1
+    },
+    {
+        "description": "brown",
+        "maxWeight": 10,
+        "name": "gucci",
+        "slotCount": 4
+    },
+    {
+        "description": "",
+        "maxWeight": 0.1,
+        "name": "",
+        "slotCount": 1
+    },
+    {
+        "description": "brown",
+        "maxWeight": 10,
+        "name": "gucci",
+        "slotCount": 4
+    },
+    {
+        "description": "brown",
+        "maxWeight": 10,
+        "name": "gucci",
+        "slotCount": 4
+    }
+]

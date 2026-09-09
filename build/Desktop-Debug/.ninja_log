@@ -1,0 +1,26 @@
+# ninja log v6
+373	2733	8005428116181423	CMakeFiles/lab6.dir/main.cpp.obj	3fc71b3f17bd1f9f
+429	2599	8005407256000585	CMakeFiles/lab6.dir/Mainwindow.cpp.obj	aab0f645cd326e7e
+54	364	8005428115651226	lab6_autogen/timestamp	55c2d6b843714046
+366	2799	8005428116110333	CMakeFiles/lab6.dir/lab6_autogen/mocs_compilation.cpp.obj	c75d46f9e5755233
+54	364	8005428115651226	lab6_autogen/mocs_compilation.cpp	55c2d6b843714046
+54	364	8005428115651226	C:/qtprojects/lab6/build/Desktop-Debug/lab6_autogen/timestamp	55c2d6b843714046
+3400	3600	8005428146455390	lab6.exe	5719c3bcab17aa3d
+24	438	8098950927436736	C:/qtprojects/lab6/build/Desktop-Debug/cmake_install.cmake	1e9119b3e062f76a
+54	364	8005428115651226	C:/qtprojects/lab6/build/Desktop-Debug/lab6_autogen/mocs_compilation.cpp	55c2d6b843714046
+24	438	8098950927512493	build.ninja	1e9119b3e062f76a
+32	325	8005409412848575	Program1_autogen/timestamp	c8d78643cde35414
+32	325	8005409412848575	Program1_autogen/mocs_compilation.cpp	c8d78643cde35414
+32	325	8005409412848575	C:/qtprojects/lab6/build/Desktop-Debug/Program1_autogen/timestamp	c8d78643cde35414
+32	325	8005409412848575	C:/qtprojects/lab6/build/Desktop-Debug/Program1_autogen/mocs_compilation.cpp	c8d78643cde35414
+344	1766	8005409413522541	CMakeFiles/Program1.dir/Bag.cpp.obj	7fc743c8ca54168c
+327	3208	8005409413366201	CMakeFiles/Program1.dir/Program1_autogen/mocs_compilation.cpp.obj	e0645dbb5c65389b
+334	3307	8005409413416682	CMakeFiles/Program1.dir/main.cpp.obj	81ae79489ca84fc5
+339	3336	8005409413416682	CMakeFiles/Program1.dir/MainWindow.cpp.obj	a29719dc7edf8965
+3336	3826	8005409443459345	Program1.exe	9632cba5bd277805
+437	3164	8005412566790492	CMakeFiles/lab6.dir/Bag.cpp.obj	423dd4d79a9ddc7e
+378	3399	8005428116232373	CMakeFiles/lab6.dir/MainWindow.cpp.obj	34dc102d3cf91100
+94	337	8098959639710387	lab6_autogen/timestamp	55c2d6b843714046
+94	337	8098959639710387	lab6_autogen/mocs_compilation.cpp	55c2d6b843714046
+94	337	8098959639710387	C:/qtprojects/lab6/build/Desktop-Debug/lab6_autogen/timestamp	55c2d6b843714046
+94	337	8098959639710387	C:/qtprojects/lab6/build/Desktop-Debug/lab6_autogen/mocs_compilation.cpp	55c2d6b843714046
